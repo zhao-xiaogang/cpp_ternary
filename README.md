@@ -4,7 +4,7 @@
 
 Usage:
 ```cpp
-#incldue "ternary.h"
+#include "ternary.h"
 
 int a = 102_ter; // a = 11
 
